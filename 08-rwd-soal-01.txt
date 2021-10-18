@@ -1,0 +1,29 @@
+-- SOAL --
+01. Apa itu responsive web design?
+02. Sebutkan apa saja relative units yang dimiliki oleh CSS?
+03. Apa itu breakpoint? Bagaimana cara kita membuat hal tersebut?
+04. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu 
+    element dalam bidang 1 dimensi?
+05. Apa yang dapat kita gunakan untuk memanipulasi tata letak suatu 
+    element dalam bidang 2 dimensi?
+
+
+
+
+-- JAWAB --
+01. pendekatan secara desain dan development yang merespons perilaku dan 
+    lingkungan user berdasarkan resolusi layar, platform, dan orientasi.
+
+02. em, ex, ch, rem, vw, vh, vmin, vmax, %
+
+03. titik di mana konten situs web merespons sesuai dengan lebar perangkat,
+    yang memungkinkan untuk menampilkan layout terbaik pada user.
+    
+    untuk membuatnya bisa dengan 2 cara yakni :
+    -  breakpoints based on device
+    -  breakpoints based on content
+    (menggunakan media query)
+
+04. dengan menggunakan flexbox
+
+05. dengan menggunakan grid
